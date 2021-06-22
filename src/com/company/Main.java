@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello,World");
         System.out.println("Hello,world,Hello,World");
+        System.out.println("jjsf interface");
     }
 }
 
